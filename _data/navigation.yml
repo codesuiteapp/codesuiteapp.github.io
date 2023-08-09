@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "ClipSuite"
-    url: /categories/clip
+    url: /categories/clipsuite
   - title: "JenkinsSuite"
-    url: /categories/jkssuite
+    url: /categories/jenkinssuite
 #   - title: "Quick-Start Guide"
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Tags"
@@ -15,15 +15,15 @@ categories:
   - title: "Clip Suite"
     children:
       - title: "Clip Suite"
-        url: /categories/clip
+        url: /categories/clipsuite
       - title: "Clip Suite [en]"
-        url: /categories/clip_en
+        url: /categories/clipsuite_en
   - title: "Jenkins Suite"
     children:
       - title: "Jenkins Suite"
-        url: /categories/jkssuite
+        url: /categories/jenkinssuite
       - title: "Jenkins Suite [en]"
-        url: /categories/jkssuite_en
+        url: /categories/jenkinssuite_en
   - title: "Jenkins"
     children:
       - title: "Jenkins"
@@ -34,7 +34,11 @@ categories:
         url: https://marketplace.visualstudio.com/items?itemName=utocode.clipsuite
       - title: "JenkinsSuite"
         url: https://marketplace.visualstudio.com/items?itemName=utocode.jenkinssuite
-  # - title: "Gift"
-  #   children:
-  #     - title: "Buy Me a Coffee"
-  #       url: /buymeacoffee/
+  - title: "Gift"
+    children:
+      - title: "Buy Me a Coffee"
+        url: https://www.buymeacoffee.com/codesuiteapp
+      - title: "Toss"
+        url: https://toss.me/codesuite
+      - title: "Kakao"
+        url: https://qr.kakaopay.com/Ej8AjIlWR

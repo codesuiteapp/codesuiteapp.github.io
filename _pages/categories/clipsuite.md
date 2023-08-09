@@ -1,7 +1,7 @@
 ---
 title: "Clip Suite"
 layout: category
-permalink: /categories/clip
+permalink: /categories/clipsuite
 author_profile: true
 taxonomy: clipsuite
 sidebar:

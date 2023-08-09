@@ -1,7 +1,7 @@
 ---
 title: "Jenkins Suite [en]"
 layout: category
-permalink: /categories/jkssuite_en
+permalink: /categories/jenkinssuite_en
 author_profile: true
 taxonomy: jenkinssuite_en
 sidebar:
