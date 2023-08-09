@@ -1,0 +1,40 @@
+# main links
+main:
+  - title: "ClipSuite"
+    url: /categories/clip
+  - title: "JenkinsSuite"
+    url: /categories/jkssuite
+#   - title: "Quick-Start Guide"
+#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Tags"
+    url: /tags/
+  - title: "Sitemap"
+    url: /sitemap.xml
+
+categories:
+  - title: "Clip Suite"
+    children:
+      - title: "Clip Suite"
+        url: /categories/clip
+      - title: "Clip Suite [en]"
+        url: /categories/clip_en
+  - title: "Jenkins Suite"
+    children:
+      - title: "Jenkins Suite"
+        url: /categories/jkssuite
+      - title: "Jenkins Suite [en]"
+        url: /categories/jkssuite_en
+  - title: "Jenkins"
+    children:
+      - title: "Jenkins"
+        url: /categories/jenkins
+  - title: "Marketplace"
+    children:
+      - title: "ClipSuite"
+        url: https://marketplace.visualstudio.com/items?itemName=utocode.clipsuite
+      - title: "JenkinsSuite"
+        url: https://marketplace.visualstudio.com/items?itemName=utocode.jenkinssuite
+  # - title: "Gift"
+  #   children:
+  #     - title: "Buy Me a Coffee"
+  #       url: /buymeacoffee/
